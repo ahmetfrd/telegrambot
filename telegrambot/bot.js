@@ -1,7 +1,7 @@
 const { Telegraf, Markup } = require('telegraf');
 
 // Telegram bot API tokenini buraya yazın
-const BOT_TOKEN = '7039130457:AAGH9ZU9Kk6JbPZGf9DmYt3zLOIhxgonXwE';
+const BOT_TOKEN = 'process.env.BOT_TOKEN';
 
 // Linklerin listesi
 const links = [
